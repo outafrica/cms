@@ -1,2 +1,2 @@
 # cms
-A simple cms website based on php
+A simple cms web app based on php
